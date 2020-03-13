@@ -20,3 +20,20 @@ All in all it has been a successful day and I am very happy with the progress. I
 
 **Link to work:** [Github card Application](https://bitbucket.org/jacobreillycooper/github-cards/src/master/)
 
+### Day 3: March 13, 2020
+
+**Today's Progress**: Continued React development with Star-match challenge.
+
+**Thoughts:** Today has been a different day with React. I have looked over components and what they should look like, why would we make a component and when not to, but I will be revisiting this quite a lot, if the projects are anything to go by. 
+
+I used fragments for the first time, but I have been told they aren't always best practice, so I will be researching that tomorrow. 
+
+useState, props and map functions with react make a lot of sense today, looking back at the first two projects has been really helpful too. 
+
+This project isn't finished and I will be looking at it more tomorrow, I've enjoyed seeing how CSS imports into react and I am chuffed that it isn't that different to what I already know.
+
+All in all, a very good day of development. 
+
+
+**Link to work:** [Star match application](https://bitbucket.org/jacobreillycooper/star-match/src/master/)
+
