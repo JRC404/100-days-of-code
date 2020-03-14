@@ -37,3 +37,17 @@ All in all, a very good day of development.
 
 **Link to work:** [Star match application](https://bitbucket.org/jacobreillycooper/star-match/src/master/)
 
+### Day 4: March 14, 2020
+
+**Today's Progress**: Continued React development with Star-match challenge.
+
+**Thoughts:** Big progress has been made with the star matching game. It has been a bit mind-boggling in some respects, looking deeper into hooks is something I've got to do, as I beleived I was grasping the concept, then side-effect hooks appeared and resetting them is a fun little task. I will be looking into that later on today / tomorrow. 
+
+The game itself makes a lot of sense and is fun to make, I have been using setState and useEffect today with comfort, so that is very good for me. 
+
+The game has a timer currently that counts down to 0 and will say game over if you lose, the logic to display that made sense and I will be commenting throughout that part tomorrow to cement my understanding. 
+
+A good start to the day for my development and it will continue, I may just not get time to update the log, that may come tomorrow as an appendage. 
+
+**Link to work:** [Star match application](https://bitbucket.org/jacobreillycooper/star-match/src/master/)
+
