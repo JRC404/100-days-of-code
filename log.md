@@ -51,3 +51,11 @@ A good start to the day for my development and it will continue, I may just not 
 
 **Link to work:** [Star match application](https://bitbucket.org/jacobreillycooper/star-match/src/master/)
 
+### Day 5: March 15, 2020
+
+**Today's Progress**: Continued React development with Star-match challenge.
+
+**Thoughts:** Not a majorly active day today, I've been working on getting the reset game / play again button to work and that was about unmounting and remounting components, so I have been diving into the research there. It works now and next I will be looking at custom hooks, which is going to be fun. I am happy with my progress over the first five days, and having completed a few projects, I feel better with React already.
+
+**Link to work:** [Star match application](https://bitbucket.org/jacobreillycooper/star-match/src/master/)
+
