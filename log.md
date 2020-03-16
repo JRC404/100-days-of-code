@@ -59,3 +59,12 @@ A good start to the day for my development and it will continue, I may just not 
 
 **Link to work:** [Star match application](https://bitbucket.org/jacobreillycooper/star-match/src/master/)
 
+### Day 6: March 16, 2020
+
+**Today's Progress**: Continued React development with Star-match challenge and researching React installation.
+
+**Thoughts:** The star match game is complete. It is complete, I say. I spent the morning looking at custom hooks, what they are and why I should use them. Learning that they are stateful functions, they should start with (use) and not to call hooks inside of loops or conditions. I am very happy with the progress today and I will be researching the best way to install create-react-app. I have done this for the project, but I don't believe I have installed any dev-dependencies, so I shall be reviewing that.
+
+**Link to work:** [Star match application](https://bitbucket.org/jacobreillycooper/star-match/src/master/)
+
+
