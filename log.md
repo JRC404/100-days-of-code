@@ -80,7 +80,7 @@ Then it is React Router. It seems like a strong course and at the end of it, I w
 
 **Link to work:** [React-Router](https://bitbucket.org/jacobreillycooper/react-router.git)
 
-### Day 7: March 17, 2020
+### Day 8: March 18, 2020
 
 **Today's Progress**: Continued React development with React-Router challenge
 
