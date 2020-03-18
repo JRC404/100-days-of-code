@@ -79,3 +79,17 @@ I am comfortable with fragments and creating class components and I am looking f
 Then it is React Router. It seems like a strong course and at the end of it, I will be evaluating my skills on Pluralsight. Eeek.
 
 **Link to work:** [React-Router](https://bitbucket.org/jacobreillycooper/react-router.git)
+
+### Day 7: March 17, 2020
+
+**Today's Progress**: Continued React development with React-Router challenge
+
+**Thoughts:** It has been a strong theory day today, I have been looking more into React Hooks, and what the most common hooks are to use from the React library and I have been trying them out to some success and noting when they haven't sunk in.
+
+I have updated readme documentation with rough code, which isn't ideal but it'll do for now and will be tidied up. Not much progress on the actual React project today but that is absolutely fine.
+
+I am going to be looking into a React / Node project to make use of my Node / Backend skills as I am itching to get going there.
+
+All-in-all, a successful day.
+
+**Link to work:** [React-Router](https://bitbucket.org/jacobreillycooper/react-router.git)
