@@ -93,3 +93,15 @@ I am going to be looking into a React / Node project to make use of my Node / Ba
 All-in-all, a successful day.
 
 **Link to work:** [React-Router](https://bitbucket.org/jacobreillycooper/react-router.git)
+
+### Day 9: March 19, 2020
+
+**Today's Progress**: Continued React development with Table Tennis challenge
+
+**Thoughts:** So, today, I lost my 10 days pluralsight streak. I was that focused on my table tennis scoreboard that I didn't want to just go on pluralsight for 5 minutes just to achieve it, no matter how tempted I was.
+
+I have been working on creating a table tennis scoreboard, it's been going okay. It is my first solo challenge and I have made good progress. I have got the scores updating via an array of objects. I am trying tomorrow to get the scores to update based on an input, not an object key: value pair.
+
+It has been a strong day but gutted about the pluralsight ;)
+
+**Link to work:** [Table Tennis](https://github.com/JRC404/table-tennis-scoreboard)
